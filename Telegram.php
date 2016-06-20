@@ -6,7 +6,7 @@
  */
 class Telegram {
 
-    private $bot_id = "";
+    private $bot_id = "222266730:AAFlRMmMisv1xwGySVEVC0BUlZQIPnoC7mU";
     private $data = array();
     private $updates = array();
 
